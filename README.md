@@ -27,4 +27,4 @@ Incoming Master's student @ NUS Data Science for Sustainability
 
 ## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/chen-shuo-huang-22631634a/](https://www.linkedin.com/in/chen-shuo-huang-22631634a/)
+- LinkedIn : [https://www.linkedin.com/in/chen-shuo-huang-22631634a/](https://www.linkedin.com/in/chen-shuo-huang-22631634a/)
