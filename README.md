@@ -1,4 +1,4 @@
-# Chen-Shuo, Huang
+# CHEN-SHUO, HUANG
 
 This GitHub page serves as a collection of my learning projects and personal archives.  
 Most repositories are created to document my progress in data science, statistics, and programming.
@@ -20,11 +20,11 @@ Most repositories are created to document my progress in data science, statistic
 ## About me
 
 Jason Huang  
+MSc in Data Science for Sustainability, NUS
 BSc in Mathematics, NTNU  
 
-Based in Taiwan  
-Incoming Master's student @ NUS Data Science for Sustainability  
+Based in Singapore 
 
 ## Contact
 
-- LinkedIn : [https://www.linkedin.com/in/chen-shuo-huang-22631634a/](https://www.linkedin.com/in/chen-shuo-huang/)
+- LinkedIn : [https://www.linkedin.com/in/chen-shuo-huang](https://www.linkedin.com/in/chen-shuo-huang/)
