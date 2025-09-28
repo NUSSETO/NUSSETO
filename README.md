@@ -1,4 +1,4 @@
-# Jason Huang
+# Chen-Shuo, Huang
 
 This GitHub page serves as a collection of my learning projects and personal archives.  
 Most repositories are created to document my progress in data science, statistics, and programming.
