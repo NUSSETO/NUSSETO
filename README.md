@@ -20,7 +20,7 @@ Most repositories are created to document my progress in data science, statistic
 ## About me
 
 Jason Huang  
-MSc in Data Science for Sustainability, NUS
+MSc in Data Science for Sustainability, NUS  
 BSc in Mathematics, NTNU  
 
 Based in Singapore 
