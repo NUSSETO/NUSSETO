@@ -11,6 +11,9 @@ Most repositories are created to document my progress in data science, statistic
 - [History_Code_Archive](https://github.com/NUSSETO/History_Code_Archive)  
   Archived code from earlier learning stages, including coursework and problem solving.
 
+- [DSS5105_PersonalProject](https://github.com/NUSSETO/DSS5105_PersonalProject)  
+  Personal project focused on predicting housing prices in Singapore.
+
 ## Notes
 
 - Repositories reflect different stages of my learning journey.
