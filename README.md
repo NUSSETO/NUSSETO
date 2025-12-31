@@ -4,15 +4,15 @@ This GitHub page serves as a collection of my learning projects and personal arc
 Most repositories are created to document my progress in data science, statistics, and programming.
 
 ## Selected Repositories
-
-- [DS_PreMaster_WeeklyPractice](https://github.com/NUSSETO/DS_PreMaster_WeeklyPractice)  
-  Weekly practice projects for data science fundamentals.  
  
-- [History_Code_Archive](https://github.com/NUSSETO/History_Code_Archive)  
-  Archived code from earlier learning stages, including coursework and problem solving.
+- [Financial Analysis & Optimization Tool](https://github.com/NUSSETO/Financial_Analysis_Tool)  
+  Financial analysis tool built with Python and AI support.
 
 - [DSS5105_PersonalProject](https://github.com/NUSSETO/DSS5105_PersonalProject)  
   Personal project focused on predicting housing prices in Singapore.
+
+- [DS_PreMaster_WeeklyPractice](https://github.com/NUSSETO/DS_PreMaster_WeeklyPractice)  
+  Weekly practice projects for data science fundamentals.  
 
 ## Notes
 
