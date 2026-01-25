@@ -8,6 +8,9 @@ Most repositories are created to document my progress in data science, statistic
 - [Financial Analysis & Optimization Tool](https://github.com/NUSSETO/Financial_Analysis_Tool)  
   Financial analysis tool built with Python and AI support.
 
+- [Wafer Map Defect Classification](https://github.com/NUSSETO/Semiconductor_Project)  
+  Defect classification for wafer built with TensorFlow, Keras.
+
 - [DSS5105_PersonalProject](https://github.com/NUSSETO/DSS5105_PersonalProject)  
   Personal project focused on predicting housing prices in Singapore.
 
