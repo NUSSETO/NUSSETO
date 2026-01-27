@@ -4,12 +4,12 @@ This GitHub page serves as a collection of my learning projects and personal arc
 Most repositories are created to document my progress in data science, statistics, and programming.
 
 ## Selected Repositories
- 
-- [Financial Analysis & Optimization Tool](https://github.com/NUSSETO/Financial_Analysis_Tool)  
-  Financial analysis tool built with Python and AI support.
 
 - [Wafer Map Defect Classification](https://github.com/NUSSETO/Semiconductor_Project)  
   Defect classification for wafer built with TensorFlow, Keras.
+ 
+- [Financial Analysis & Optimization Tool](https://github.com/NUSSETO/Financial_Analysis_Tool)  
+  Financial analysis tool built with Python and AI support.
 
 - [DSS5105_PersonalProject](https://github.com/NUSSETO/DSS5105_PersonalProject)  
   Personal project focused on predicting housing prices in Singapore.
